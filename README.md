@@ -5,7 +5,9 @@ Machine Learning / Data Science, transitioning from a clinical background as a N
 ## About me
 
 • Nurse specialized in Ophthalmology, with hands-on experience coordinating pharmaceutical clinical trials and supporting complex surgical and diagnostic procedures.
+
 • Completed an intensive Data Science & Machine Learning Bootcamp at Ironhack — Python, SQL, Statistics, Machine Learning, Deep Learning, Data Engineering.
+
 • Focused on Health Tech, Clinical Data, and AI applied to healthcare and pharma — building reliable, human-centered data products where a clinician stays in the loop.
 
 ## Featured project
